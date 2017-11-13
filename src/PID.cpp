@@ -2,7 +2,6 @@
 #include <stdlib.h>
 #include "PID.h"
 
-#define WINDOW_SIZE 20
 
 
 using namespace std;
